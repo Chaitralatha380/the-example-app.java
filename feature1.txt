@@ -1,2 +1,2 @@
 feature1 implementation
-feature1 improvements
+feature improvements
